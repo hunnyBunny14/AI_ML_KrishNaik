@@ -1,0 +1,6 @@
+python -m venv ml_prime 
+.\ml_prime\Scripts\activate
+pip install -r requirements.txt
+python -m ipykernel install --user --name ml_prime --display-name "Python (Boss ML)"
+
+

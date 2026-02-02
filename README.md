@@ -69,57 +69,64 @@ hunnybunny14-ai_ml_krishnaik/
 ├── 🛠️ commands.txt
 └── 📘 README.md
  ```
-📚 Topics Covered
+## 📚 Topics Covered
 
-✅ Python Basics
-✅ Control Flow
-✅ Data Structures
-✅ Functions & Functional Programming
-✅ Modules & Packages
-✅ File Handling
-✅ Practice & Experiments
+✅ Python Basics  
+✅ Control Flow  
+✅ Data Structures  
+✅ Functions & Functional Programming  
+✅ Modules & Packages  
+✅ File Handling  
+✅ Practice & Experiments  
 
-🛠️ Tech Stack
+---
 
-🐍 Python
+## 🛠️ Tech Stack
 
-📓 Jupyter Notebook
+🐍 **Python**  
+📓 **Jupyter Notebook**  
+🤖 **AI / ML Foundations**  
 
-🤖 AI / ML Foundations
+---
 
-🎯 Goals
+## 🎯 Goals
 
-Build strong Python fundamentals for AI/ML
+- Build strong Python fundamentals for AI/ML  
+- Improve logical thinking & problem-solving  
+- Prepare for Machine Learning & Data Science  
+- Maintain a revision-ready notebook repository  
 
-Improve logical thinking & problem-solving
+---
 
-Prepare for Machine Learning & Data Science
+## 🚀 Future Roadmap
 
-Maintain a revision-ready notebook repository
+🔜 NumPy & Pandas  
+🔜 Data Visualization  
+🔜 Statistics for Machine Learning  
+🔜 Machine Learning Algorithms  
+🔜 Real-world Projects  
 
-🚀 Future Roadmap
+---
 
-🔜 NumPy & Pandas
-🔜 Data Visualization
-🔜 Statistics for Machine Learning
-🔜 Machine Learning Algorithms
-🔜 Real-world Projects
+## 🤝 Contributions
 
-🤝 Contributions
-
-This is a learning-focused repository.
+This is a **learning-focused repository**.  
 Suggestions, improvements, and discussions are welcome.
 
-⭐ Support
+---
+
+## ⭐ Support
 
 If you find this repository useful:
 
-⭐ Star the repository
+⭐ Star the repository  
+🔄 Share with fellow learners  
+👀 Follow the journey  
 
-🔄 Share with fellow learners
-
-👀 Follow the journey
+---
 
 <div align="center">
-⚡ Built with discipline, consistency, and an AI-first mindset ⚡
+
+⚡ **Built with discipline, consistency, and an AI-first mindset** ⚡
+
 </div>

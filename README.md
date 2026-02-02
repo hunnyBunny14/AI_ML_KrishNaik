@@ -68,7 +68,7 @@ hunnybunny14-ai_ml_krishnaik/
 ├── 📄 requirements.txt
 ├── 🛠️ commands.txt
 └── 📘 README.md
-
+ ```
 📚 Topics Covered
 
 ✅ Python Basics
@@ -122,4 +122,4 @@ If you find this repository useful:
 
 <div align="center">
 ⚡ Built with discipline, consistency, and an AI-first mindset ⚡
-</div> ```
+</div>
